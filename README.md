@@ -37,4 +37,4 @@ Physics PhD student in experimental neutrino physics at Florida State University
 
 ## Contact
 
-Chicago, IL · gkufatty@fsu.edu
+Chicago, IL 
