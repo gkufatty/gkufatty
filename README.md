@@ -11,6 +11,7 @@ Physics PhD student in experimental neutrino physics at Florida State University
 
 - **[Reconstructed_Neutrons_Analyzer](https://github.com/gkufatty/Reconstructed_Neutrons_Analyzer)** — Prong-level neutron-signal reconstruction for NOvA: purity/efficiency studies and two interactive Flask viewers (3D event display, muon-cylinder cut scanner).
 - **[Neutron_Spectrums](https://github.com/gkufatty/Neutron_Spectrums)** — CAFAna macros producing neutron kinematic spectra by event topology and hadronic visible energy, for FHC/RHC beam configurations.
+- **[DataAnalyzer_2x2](https://github.com/gkufatty/DataAnalyzer_2x2)** — Neutron tagging from neutrino interactions in the DUNE-ND 2x2 prototype: neutrino/proton/neutron selection pipeline, efficiency/purity characterization, and Python tools for CAF-derived data.
 
 ## Skills
 
@@ -37,4 +38,4 @@ Physics PhD student in experimental neutrino physics at Florida State University
 
 ## Contact
 
-Chicago, IL 
+Chicago, IL
