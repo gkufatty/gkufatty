@@ -1,6 +1,6 @@
 # Georgette Kufatty
 
-Physics PhD student in experimental neutrino physics at Florida State University, currently a URA Visiting Scholar at Fermilab. I work on machine learning for particle identification and build AI-assisted software tools for large-scale detector data analysis on the NOvA and DUNE-ND neutrino experiments.
+Physics PhD student in experimental neutrino physics at Florida State University, currently a URA Visiting Scholar at Fermilab. I work on machine learning for particle identification and build software tools for large-scale detector data analysis on the NOvA and DUNE-ND neutrino experiments.
 
 ## Currently working on
 
