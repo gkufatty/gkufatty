@@ -33,7 +33,7 @@ Physics PhD student in experimental neutrino physics at Florida State University
 ## Background
 
 - PhD, Physics — Florida State University (2022–present)
-- B.S., Physics — Simon Bolivar University, Caracas, Venezuela (2015–2021)
+- B.S., Physics — Simon Bolivar University, Caracas, Venezuela (2015–2020)
 - CERN Summer Student, Geneva (2019) — studied particle production in the K12 beam line for different Geant4 physics lists. [Report](http://cds.cern.ch/record/2687883?ln=en) · [Talk](https://cds.cern.ch/record/2685244)
 
 ## Contact
