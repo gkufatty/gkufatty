@@ -4,7 +4,7 @@ Physics PhD student in experimental neutrino physics at Florida State University
 
 ## Currently working on
 
-- **Neutron detection in NOvA** — data-driven algorithms to detect rare delayed neutron-capture signals in large-scale detector data, and simulation-to-data correction models that reduced systematic prediction bias by 20%.
+- **Neutron detection in NOvA** — data-driven algorithms to detect rare delayed neutron-capture signals in large-scale detector data, and simulation-to-data correction models.
 - **Neutron tagging in DUNE-ND (2x2 prototype)** — deep learning models to identify neutron-induced signals in high-granularity sensor data, with simulation-driven labeling and feature-extraction pipelines for sparse spatiotemporal data.
 
 ## Featured projects
